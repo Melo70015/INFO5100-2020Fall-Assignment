@@ -1,3 +1,5 @@
+//Hello Yafei, I'm not sure whether you've checked my Assignment3 because I delayed a bit last time. If not, please check my Assignment3 file.
+//Thank you very much and sorry for the delay last time.
 //Assignment4_1
 package Assignment4_1;
 
